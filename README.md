@@ -8,4 +8,4 @@ Curso: Inteligência Artificial
 
 Disciplina: Pensamento Analítico de dados
 
-Exemplo_1: Previsão de manutenção preventiva com dados da NASA
+Exemplo_1: Classificação dos 5 Grandes Testes de Personalidade
