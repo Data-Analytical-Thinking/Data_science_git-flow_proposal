@@ -2,4 +2,6 @@
 
 Proposta de Workflow baseado em Git focado em ciência de Dados.
 
-Autores: Fabrycio Almada, Kauan Divino, Matheus Brandão, Maykon Dutra
+Autores: Fabrycio Almada, Kauan Divino, Matheus Brandão, Maykon Dutra.
+
+Testing
