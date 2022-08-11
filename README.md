@@ -8,4 +8,4 @@ Curso: Inteligência Artificial
 
 Disciplina: Pensamento Analítico de dados
 
-Exemplo 1: Previsão de manutenção preventiva com dados da NASA
+Exemplo_1: Previsão de manutenção preventiva com dados da NASA
